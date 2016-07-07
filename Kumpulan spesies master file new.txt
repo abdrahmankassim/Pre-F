@@ -1,0 +1,54 @@
+bil	kod_spesies	kod	simbol	nama_tempatan	nama_sains	kumpulan_kayu_1.9	kumpulan_D_ND	Famili	kumpulan_jenis_kayu	kks1	kks2	kks3	kks4	kks5	kks6	kks7	kks8	kks9
+1	6530200	8401	TP	Terap	Artocarpus spp.	6	BD	Moraceae	KKR						6			
+2	6430000	4801	MD	Medang	Lauraceae	6	BD	Lauraceae	KKR						6			
+3	4530200	3601	KG	Keledang	Artocarpus spp.	4	BD	Moraceae	KKS				4					
+4	3050400	8501	TR	Terentang	Campnosperma spp.	3	BD	Anacardiaceae	KKR			3						
+5	2011420	1408	RSGJ	Resak gajah	Vatica sp 'A'	2	D	Dipterocarpaceae	KKB		2							
+6	2010500	1101	BL	Balau	Shorea spp. (Balau group)	2	D	Dipterocarpaceae	KKB		2							
+7	6751500	3001	KI	Kasai	Pometia spp.	6	BD	Sapindaceae	KKS						6			
+8	3770000	5801	NY	Nyatoh	Family of sapotaceae	3	BD	Sapotaceae	KKR			3						
+9	8334601	4401	LDI	Ludai	Sapium baccatum	8	BD	Euphorbiaceae	KKR						6			
+10	4270000	8101	SM	Simpoh	Dillenia spp.	4	BD	Dilleniaceae	KKS				4					
+11	7751303	7302	RTHT	Rambutan hutan	Nephelium lappaceum	7	BD	Sapindaceae	KKB						6			
+12	5450800	4001	KJWKP	Keranji	Dialium spp.	5	BD	Leguminosae	KKB					5				
+13	6610300	6801	PTL	Petaling	Ochanostachys amentacea	6	BD	Olacaceae	KKR						6			
+14	7000000	9999	LL	Lain-lain	-	10	BD	-	LL							7		
+15	7332301	6401	PRH	Perah	Elateriospermum tapos	7	BD	Euphorbiaceae	KKS						6			
+16	7570300	3501	KLT	Kelat	Eugenia spp.	7	BD	Myrtaceae	KKS						6			
+17	1010101	0106	MTSY	Meranti seraya	Shorea curtisii	1	D	Dipterocarpaceae	KKR	1								
+18	8333500	4601	KBM 	Mahang	Macarangga spp.	8	BD	Euphorbiaceae	KKR						6			
+19	3370100	1901	BNG	Bintangor	Calophyllum spp.	3	BD	Guttiferae	KKR			3						
+20	6340200	5001	MPN	Mempening	Annonaceae spp.	6	BD	Fagaceae	KKS						6			
+21	2010600	0501	MA	Mersawa	Anisoptera spp.	2	D	Dipterocarpaceae	KKR		2							
+22	1010400	0401	DH	Meranti kuning/Damar hitam	Shorea spp. (Yellow)	1	D	Dipterocarpaceae	KKR	1								
+23	6280100	3101	KYA	"Kayu arang, Meribut, Tuba buah"	Diospyros spp.	6	BD	Ebenaceae	KKS						6			
+24	8332400	8001	SSK	Sesenduk	Endospermum malaccense	8	BD	Euphorbiaceae	KKR			3						
+25	7370401	6101	PNG	Penaga	Mesua ferrea	8	BD	Guttiferae	KKB						6			
+26	5450802	4006	KJBT	Keranji tebal besar	Dialium laurinum	5	BD	Leguminosae	KKB					5				
+27	2011400	1401	RS	Resak	Cotylelobium spp. & Vatica spp.	2	D	Dipterocarpaceae	KKB		2							
+28	3452600	7901	SP	Sepetir	Sindora spp.	3	BD	Leguminosae	KKR			3						
+29	5450600	3401	KT	Kekatong	Cynnometra spp.	5	BD	Leguminosae	KKB					5				
+30	8930900	4301	LBN	Leban	Vitex spp.	8	BD	Verbenaceae	KKB						6			
+31	2011000	0601	MW	Merawan	Hopea spp. (Merawan)	2	D	Dipterocarpaceae	KKR		2							
+32	2010700	0801	KRBM	Keruing (Berminyak)	Dipterocarpus spp. (oily)	2	D	Dipterocarpaceae	KKS		2							
+33	7260100	5301	MK	Mengkundor	Tetrameles nudifelora	7	BD	Datiscaceae	KKR							7		
+34	7530500	1601	AB	Ara berteh	Parartocarpus spp.	7	BD	Moraceae	KKR						6			
+35	6550401	6301	PNAR	Penarahan arang	Myristica cinnamomea	6	BD	Myristicaceae	KKR						6			
+36	3880200	7401	RM	Ramin	Gonystylus spp.	3	BD	Thymelaeaceae	KKR			3						
+37	6800401	5901	PKJ	Pauh kijang	Irvingia malayana	6	BD	Simaroubaceae	KKS						6			
+38	7451800	6701	PT	Petai	Parkia spp.	7	BD	Leguminosae	KKR						6			
+39	3062500	2601	JK	Jangkang	Xylopia spp.	3	BD	Annonaceae	KKR			3						
+40	6751502	3003	KIDK	Kasai daun kecil	Pometia pinnata alnifolia	6	BD	Sapindaceae	KKS						6			
+41	5770500	2001	BT	Bitis	Palaqium spp. (maduca utilis)	5	BD	Sapotaceae	KKB					5				
+42	4530209	3603	KGBK	Keledang bangkong	Artocarpus sivestris	4	BD	Moraceae	KKS				4					
+43	3110300	2301	DR	Durian	Durio spp.	3	BD	Bombaceae	KKR			3						
+44	2010800	0901	KRTB	Keruing (Tidak Berminyak)	Dipterocarpus spp. (non-oily)	2	D	Dipterocarpaceae	KKS		2							
+45	7511100	8201	SR	Surian 	Cedrela/Toona spp.	7	BD	Meliaceae	KKR							7		
+46	7180200	2701	JW	Jelawai	Terminalia spp.	7	BD	Combretaceae	KKS						6			
+47	2011003	0611	MWBK	Merawan mata kucing bukit	Hopea pedicellata	2	D	Dipterocarpaceae	KKR		2							
+48	6610500	2201	DDI	Dedali	Strombosia jawanica	6	BD	Olacaceae	KKR						6			
+49	8713001	3701	KPY	Kelempayan	Anthocephalum chinensis	8	BD	Rubiaceae	KKR							7		
+50	6051600	5601	MP	Merpauh	Swintonia	6	BD	Anacardiaceae	KKS						6			
+51	7751700	7306	RTPC	"Rambutan pacat, Kikir buntal"	Xerospermum spp.	7	BD	Sapindaceae	KKB							7		
+52	4530201	3602	KGBB	Keledang babi	Artocarpus anisophyllus	4	BD	Moraceae	KKS				4					
+53	3770902	5816	ND	Nyatoh durian	Payena maingayi	3	BD	Sapotaceae	KKR			3						
